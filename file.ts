@@ -32,4 +32,3 @@ export const convertExcelToCsv = async (file: File) => {
     { type: 'application/octet-stream' }
   )
 }
-
